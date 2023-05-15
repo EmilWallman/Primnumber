@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emil.wallman\\source\\repos\\Primenumber\\Primenumber\\Primenumber.csproj": {}
+    "C:\\Users\\emil.wallman\\Primnumber\\Primenumber\\Primenumber\\Primenumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emil.wallman\\source\\repos\\Primenumber\\Primenumber\\Primenumber.csproj": {
+    "C:\\Users\\emil.wallman\\Primnumber\\Primenumber\\Primenumber\\Primenumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emil.wallman\\source\\repos\\Primenumber\\Primenumber\\Primenumber.csproj",
+        "projectUniqueName": "C:\\Users\\emil.wallman\\Primnumber\\Primenumber\\Primenumber\\Primenumber.csproj",
         "projectName": "Primenumber",
-        "projectPath": "C:\\Users\\emil.wallman\\source\\repos\\Primenumber\\Primenumber\\Primenumber.csproj",
+        "projectPath": "C:\\Users\\emil.wallman\\Primnumber\\Primenumber\\Primenumber\\Primenumber.csproj",
         "packagesPath": "C:\\Users\\emil.wallman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emil.wallman\\source\\repos\\Primenumber\\Primenumber\\obj\\",
+        "outputPath": "C:\\Users\\emil.wallman\\Primnumber\\Primenumber\\Primenumber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

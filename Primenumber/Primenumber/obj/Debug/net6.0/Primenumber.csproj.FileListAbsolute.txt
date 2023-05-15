@@ -1,0 +1,15 @@
+C:\Users\emil.wallman\Primnumber\Primenumber\Primenumber\bin\Debug\net6.0\Primenumber.exe
+C:\Users\emil.wallman\Primnumber\Primenumber\Primenumber\bin\Debug\net6.0\Primenumber.deps.json
+C:\Users\emil.wallman\Primnumber\Primenumber\Primenumber\bin\Debug\net6.0\Primenumber.runtimeconfig.json
+C:\Users\emil.wallman\Primnumber\Primenumber\Primenumber\bin\Debug\net6.0\Primenumber.dll
+C:\Users\emil.wallman\Primnumber\Primenumber\Primenumber\bin\Debug\net6.0\Primenumber.pdb
+C:\Users\emil.wallman\Primnumber\Primenumber\Primenumber\obj\Debug\net6.0\Primenumber.csproj.AssemblyReference.cache
+C:\Users\emil.wallman\Primnumber\Primenumber\Primenumber\obj\Debug\net6.0\Primenumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil.wallman\Primnumber\Primenumber\Primenumber\obj\Debug\net6.0\Primenumber.AssemblyInfoInputs.cache
+C:\Users\emil.wallman\Primnumber\Primenumber\Primenumber\obj\Debug\net6.0\Primenumber.AssemblyInfo.cs
+C:\Users\emil.wallman\Primnumber\Primenumber\Primenumber\obj\Debug\net6.0\Primenumber.csproj.CoreCompileInputs.cache
+C:\Users\emil.wallman\Primnumber\Primenumber\Primenumber\obj\Debug\net6.0\Primenumber.dll
+C:\Users\emil.wallman\Primnumber\Primenumber\Primenumber\obj\Debug\net6.0\refint\Primenumber.dll
+C:\Users\emil.wallman\Primnumber\Primenumber\Primenumber\obj\Debug\net6.0\Primenumber.pdb
+C:\Users\emil.wallman\Primnumber\Primenumber\Primenumber\obj\Debug\net6.0\Primenumber.genruntimeconfig.cache
+C:\Users\emil.wallman\Primnumber\Primenumber\Primenumber\obj\Debug\net6.0\ref\Primenumber.dll
